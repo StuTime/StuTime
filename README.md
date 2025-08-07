@@ -74,7 +74,7 @@ StuTime isn’t just another app. It’s a student-led passion project built wit
 
 * Website: [https://stutime.app](https://stutime.app)
 * Instagram: [@stutime.app](https://instagram.com/stutime.app)
-* Contact: [team@stutime.app](mailto:team@stutime.app)
+* Contact: [info@stutime.app](mailto:info@stutime.app)
 
 ---
 
