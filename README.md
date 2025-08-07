@@ -1,5 +1,3 @@
----
-
 # 📘 StuTime
 
 **StuTime** is a smarter way to manage your time — built specifically for students who want more structure, less stress, and better focus. Unlike traditional calendar apps that just show you what’s next, StuTime helps you *feel* the time — with countdowns, visuals, and reminders that make it easier to stay on track and in control.
@@ -82,5 +80,3 @@ StuTime isn’t just another app. It’s a student-led passion project built wit
 
 StuTime helps students **own their time** — not just track it.
 Because when you master your schedule, you unlock your full potential.
-
----
